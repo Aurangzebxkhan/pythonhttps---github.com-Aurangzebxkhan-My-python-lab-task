@@ -9,3 +9,4 @@ while user_guess != number_to_guess:
         print("Too high!")
 print("Congratulations! You guessed the right number.")
 print("the number was", number_to_guess)
+print("thank you for playing")
