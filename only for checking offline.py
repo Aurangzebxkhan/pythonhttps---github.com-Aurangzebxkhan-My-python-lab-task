@@ -12,5 +12,14 @@ print ("base\r", base , "\r exponent", exponent , "\r result", result)
 print("base\f", base , "\f exponent", exponent , "\f result", result)
 print("base\b", base , "\b exponent", exponent , "\b result", result)
 print("base\a", base , "\a exponent", exponent , "\a result", result)
+print("base\0", base, "\0 exponent", exponent, "\0 result", result)
+
+
+
+
+print("base \t", base, "\t exponent", exponent, "\t result", result)
+print("base \v", base, "\v exponent", exponent, "\v result", result)
+print("\rbase ", base, "\r exponent", exponent, "\r result", result)
+
 
 
