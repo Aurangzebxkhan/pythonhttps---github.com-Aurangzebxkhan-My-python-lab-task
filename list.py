@@ -1,3 +1,40 @@
+# import datetime
+
+# def find_data():
+#     names = []
+#     ages = []
+    
+#     # Get the number of entries
+#     num_entries = int(input("Enter the number of entries: "))
+    
+#     # Collect names and ages
+#     for _ in range(num_entries):
+#         name = input("Enter name: ")
+#         age = int(input("Enter age: "))
+#         names.append(name)
+#         ages.append(age)
+    
+#     # Find data for "Bob"
+#     if "Bob" in names:
+#         index = names.index("Bob")
+#         print(f"Data for Bob: Name = {names[index]}, Age = {ages[index]}")
+#     else:
+#         print("Bob not found in the list.")
+
+#     # Show current date and time details
+#     now = datetime.datetime.now()
+#     print("Current Date and Time Details:")
+#     print(f"Year: {now.year}")
+#     print(f"Month: {now.month}")
+#     print(f"Week: {now.strftime('%U')}")
+#     print(f"Day: {now.day}")
+#     print(f"Hour: {now.hour}")
+#     print(f"Minute: {now.minute}")
+#     print(f"Second: {now.second}")
+
+# # Call the function
+# find_data()
+
 # thislist = ["apple", "banana", "cherry"]
 # print(thislist)
 
@@ -41,8 +78,8 @@
 # print(subject)
 
 
-list=["apple","organ","banana","good apple ","new apple","old appple"]
-list1=[11,13,15,13,15,16]
-combinelist=list+list1
-print(combinelist)
+# list=["apple","organ","banana","good apple ","new apple","old appple"]
+# list1=[11,13,15,13,15,16]
+# combinelist=list+list1
+# print(combinelist)
 
