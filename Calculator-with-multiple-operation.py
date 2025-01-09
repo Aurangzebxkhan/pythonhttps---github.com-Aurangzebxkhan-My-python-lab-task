@@ -1,5 +1,4 @@
 import math
-import os
 
 def display_menu():
     print("Calculator")
