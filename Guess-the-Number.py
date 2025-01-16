@@ -1,5 +1,5 @@
 import random
-number_to_guess = random.randint(5, 10)
+number_to_guess = random.randint(1, 10)
 user_guess = 0
 while user_guess != number_to_guess:
     user_guess = int(input("Guess a number between 1 and 10: "))

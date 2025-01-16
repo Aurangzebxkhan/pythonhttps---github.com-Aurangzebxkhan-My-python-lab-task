@@ -59,6 +59,11 @@ print(spam)
 # print(round(4.56))       # Outputs: 5
 # print(round(4.567, 2))   # Outputs: 4.57
 # print(round(4.1234, 3))  # Outputs: 4.123
+#Absolute value
+# print(abs(10))  # Output: 10
+# print(abs(-10)) # Output: 10
+# print(abs(0))   # Output: 0
+
 # Syntax
 # len(object)
 # print(len("hello"))             # Outputs: 5
