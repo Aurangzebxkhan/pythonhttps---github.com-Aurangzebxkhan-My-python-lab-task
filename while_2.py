@@ -4,3 +4,5 @@ while True:
        if name=='your name ':
             break
        print('Thanks you ')
+       break
+

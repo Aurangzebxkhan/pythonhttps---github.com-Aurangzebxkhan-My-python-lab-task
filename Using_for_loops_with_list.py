@@ -1,5 +1,5 @@
-# for i in [0, 1, 2, 3]:
-#     print(i)
+for i in [0, 1, 2, 3]:
+    print(i)
 # Define the list
 supplies = ['pens', 'staplers', 'flamethrowers', 'binders']
 
