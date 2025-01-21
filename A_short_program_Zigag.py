@@ -21,5 +21,6 @@ try:
             if indent == 0:
                 # Change direction:
                 indentIncreasing = True
+                break # when i remove the break the go to infinte okay 
 except KeyboardInterrupt:
     sys.exit()
