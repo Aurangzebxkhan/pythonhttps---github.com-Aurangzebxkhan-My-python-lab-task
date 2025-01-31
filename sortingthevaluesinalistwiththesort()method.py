@@ -1,0 +1,16 @@
+q=[1,2,3,4,4.1312,1,-1,-9]
+q.sort()
+print(q)
+b=['zaay','ants','cat','dogs','badgers','elephants','apples','orang']
+b.sort()
+print(b)
+c=['Alice','ants','Bob','badgers','Carol','cats']
+c.sort()
+print(c)
+d=['a','z','A','Z','x','Y','B','m','c','d','e','f','N','O','P','u']
+d.sort(key=str.lower)
+print(d)
+d.sort(key=str.upper)
+print(d)
+d.reverse()
+print(d)
